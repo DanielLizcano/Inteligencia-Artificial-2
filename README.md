@@ -3,7 +3,7 @@
 
 ![Alt text](/Banner/bannerIA2.PNG)
 
-- Autores: Juan David Porras Gomez, Jesús Daniel Lizcano Castro
+- Autores: Juan David Porras Gomez - 2172000, Jesús Daniel Lizcano Castro - 2171991
 - Objetivo: Clasificar serpientes a nivel de especie con el fin de saber si son o no venenosas
 - Dataset: https://www.kaggle.com/goelyash/165-different-snakes-species
 - Metodos: Convolutional Neuronal Network (CNN)
