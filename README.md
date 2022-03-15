@@ -4,7 +4,7 @@
 ![Alt text](/Banner/bannerIA2.PNG)
 
 - Autores: Juan David Porras Gomez, Jesús Daniel Lizcano Castro
-- Objetivo: Clasificar serpientes a nivel de especie con el fin de saber si es o no venenosa
+- Objetivo: Clasificar serpientes a nivel de especie con el fin de saber si son o no venenosas
 - Dataset: https://www.kaggle.com/goelyash/165-different-snakes-species
 - Metodos: Convolutional Neuronal Network (CNN)
 - Video: https://youtu.be/3J30jk0vQ0I
