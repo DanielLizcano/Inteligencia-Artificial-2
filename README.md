@@ -1,2 +1,4 @@
 # ProyectoIA2
-## IdentificaciÓn de especies de serpientes mediante visiÓn por computador
+## Identificación de especies de serpientes mediante visiÓn por computador
+
+![Alt text](/Banner/BannerIA2.png)
